@@ -51,7 +51,7 @@ class AddEntryPage extends StatelessWidget {
           child: BlocBuilder<AddEntryBloc, AddEntryState>(
             builder: (context, state) {
               return Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   const SizedBox(height: 24),
                   TitleInput(title: state.title),
