@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778305194911",
+    "project_id": "presupuestos-adb3f",
+    "storage_bucket": "presupuestos-adb3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778305194911:android:3804c0579b1c9e846f8baa",
+        "android_client_info": {
+          "package_name": "com.tcs.presupuestos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AJ9vlVNQ_RW_pFQYtC2wFpxQKV1wu6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

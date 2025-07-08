@@ -1,0 +1,5 @@
+baseUrl: "https://us-central1-puntored-dev.cloudfunctions.net/technicalTest-developer/api"
+apiKey: "mtrQF6Q11eosqyQnkMY0JGFbGqcxVg5icvfVnX1ifIyWDvwGApJ8WUM8nHVrdSkN"
+connectTimeOut: 120000
+receiveTimeOut: 120000
+ts: 1
